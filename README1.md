@@ -23,8 +23,6 @@
   </p>
 </p>
 
-
-
 <br>
 
 ## Table of contents

@@ -19,6 +19,7 @@ vendor/bundle
 *.swp
 *.vi
 *.zip
+*.bak
 *~
 
 # OS or Editor folders
